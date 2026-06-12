@@ -1,0 +1,20 @@
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.staging
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
